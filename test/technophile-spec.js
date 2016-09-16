@@ -1,6 +1,6 @@
 var chai = require('chai');
 chai.should();
-var Phone = require('../lib/Phone.js');
+var Phone = require('../lib/Phone');
 var Tablet = require('../lib/Tablet');
 var GameConsole = require('../lib/GameConsole');
 var WebBrowser = require('../lib/WebBrowser');
